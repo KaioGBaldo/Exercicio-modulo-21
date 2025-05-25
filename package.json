@@ -1,5 +1,5 @@
 {
-  "name": "projeto_landing_page_disney_plus",
+  "name": "projeto-4-modulo",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -12,10 +12,12 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^6.0.1",
-    "gulp-uglify": "^3.0.2",
-    "sass": "^1.86.0"
+    "sass": "^1.86.3"
+  },
+  "dependencies": {
+    "gulp-uglify": "^3.0.2"
   }
 }
